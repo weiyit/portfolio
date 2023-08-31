@@ -2,36 +2,32 @@
 
 link to live site https://weiyit.github.io/portfolio/
 
+# Judy Tsai Porfolio
+
+## About me
+Hello everyon! I am Judy Tsai, a second year Master's student in Healthcare Analytics & Information technology Program.
+I am interested in data science, digital transformation, and change management, aiming to get a job in the States after I graduate.
+
+## What I hope to learn
+I am planning to find a job focusing on data science, digital transformation, and change management. In these positions, I would say it is really important for these roles to have a good communication skill and have the ability to convince people for the project. All of the projec tthat these roles might work on is all about changing, and change always invlove disagreement. Addtionally, it is hard to change people mindset. When they get used to do something, or there is a typical way they used to, it's difficult to change them. Therefore, a good design and good story telling skills can help me to have a better approach.
 
 
 
-About me
-Under the About me section, write a couple paragraphs about yourself!  You can include things like your name, pronouns, the program you're in, or other insights you'd like to share with the class (and more broadly, perhaps future employers!).  You don't have to include any personal information here that you would prefer keeping off of a public website (see the note below). 
+#Portfolio
 
-Hello everyon! I am Judy Tsai, a Master's student in Healthcare Analytics & Information technology Program.
+##Week 1
+### In-class sketching exercise.
 
+### Data visualization critique #1
 
-What I hope to learn
-Under the What I hope to learn section, talk about what you're interested in getting out of the course and what you are planning to do once you graduate.  You can include other information you think is helpful to the rest of the class, including a photo if you like - follow the Github markdown guide to learn how.
+### Controlling Color - week one sketching exercise
 
-
-
-
-Portfolio
-
-Week 1
-# In-class sketching exercise.
-
-# Data visualization critique #1
-
-# Controlling Color - week one sketching exercise
-
-# Personal portfolio
+### Personal portfolio
 
 
 
-# Data visualization critiques
+### Data visualization critiques
 
-# Data visualization workshops
+### Data visualization workshops
 
-# Final project
+### Final project
