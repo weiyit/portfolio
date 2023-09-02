@@ -31,27 +31,21 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 
 #### Data visualization critique #1
 ## Week 2
-------
 #### Data visualization #1
 #### Crafting for Clarity
 ## Week 3
-------
 #### Critique by Design
 ## Week 4
-------
 #### Choosing Chart Types
 #### Final Project, part one
 #### Final Project, part one avoiding plagiarism quiz
 ## Week 5
-------
 #### Practicing Persuasion
 #### Final Project, part two
 ## Week 6
-------
 #### Final Project, part three
 #### Cleaning up your online portfolio
 ## Week 7
-------
 #### Final Presentation
 ------
 Link to the website: https://weiyit.github.io/portfolio/
