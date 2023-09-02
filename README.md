@@ -1,12 +1,3 @@
-# portfolio
-
-link to live site https://weiyit.github.io/portfolio/
-
-
-
-
-[About Me](#about-me) &nbsp;&nbsp;&nbsp; [Education](#education) &nbsp;&nbsp;&nbsp; [Work Experience](#work-experience) &nbsp;&nbsp;&nbsp; [Projects](#projects) &nbsp;&nbsp;&nbsp; [Skills](#skills) &nbsp;&nbsp;&nbsp; [Contact](#contact)
-
 
 ![Judy](main_page.jpeg)
 
@@ -53,3 +44,8 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 **#### Data visualization workshops**
 
 **#### Final project**
+
+
+# portfolio
+
+link to live site https://weiyit.github.io/portfolio/
