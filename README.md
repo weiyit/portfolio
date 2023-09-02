@@ -2,6 +2,15 @@
 
 link to live site https://weiyit.github.io/portfolio/
 
+
+
+
+[About Me](#about-me) &nbsp;&nbsp;&nbsp; [Education](#education) &nbsp;&nbsp;&nbsp; [Work Experience](#work-experience) &nbsp;&nbsp;&nbsp; [Projects](#projects) &nbsp;&nbsp;&nbsp; [Skills](#skills) &nbsp;&nbsp;&nbsp; [Contact](#contact)
+
+
+![Judy](Main_page.png)
+
+
 # Judy Tsai Porfolio
 
 ## About me
