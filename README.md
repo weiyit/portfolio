@@ -10,9 +10,9 @@ In my pursuit of roles centered around data science, digital transformation, and
 These roles often involve making big changes, and change can be hard for people to accept, it's important to get better at persuading others by showing them data and telling stories. However, changing how people think can be tough. People usually like to stick to their usual habits and thoughts, so it can be challenging to convince them to do something new. But I believe that the skills I'll learn in this course will help me with my career by making it easier to convince others and bring about positive changes.
 
 # **Portfolio**
-### Week 1
+## Week 1
 ------
-##### In-class sketching exercise
+#### In-class sketching exercise
 - Description: This visualization presents a comparison of the level of focus on school work, job searching, or leisure activities during weekdays and weekends.
 - Reason for Choosing this Visualization: I opted for this visualization because it employs two bars, making it simple to discern the differences between weekdays and weekends.
 - Choice of Colors: Red indicates the most focused periods as it imparts a sense of intensity, while yellow, being softer and warmer, conveys relaxation, and orange is between the two.
@@ -20,7 +20,7 @@ These roles often involve making big changes, and change can be hard for people 
 
 ![image](https://github.com/weiyit/portfolio/assets/122920634/be0dac38-d560-4d42-940f-98a866c1bf08)
 
-##### Controlling Color - The Simple Pie Exercise
+#### Controlling Color - The Simple Pie Exercise
 In my approach, I've focused on highlighting the contrast in interest between two distinct age groups: those over 30 and those under 30. To make this comparison clearer, I used a darker color for the categories 'very interested' and 'somewhat interested' in both age groups. This choice of color was intended to draw immediate attention to the key differences in drone-buying interest between these demographics.
 
 Additionally, I've added labels with increased font size, providing clearer context to the reader. This makes it easier to see and read the exact percentages or numbers behind each category, facilitating a more precise comparison.
@@ -29,29 +29,29 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 
 ![image](https://github.com/weiyit/portfolio/assets/122920634/ba0b747f-edfb-4dea-bbc9-61ada6ed48b7)
 
-##### Data visualization critique #1
-### Week 2
+#### Data visualization critique #1
+## Week 2
 ------
-##### Data visualization #1
-##### Crafting for Clarity
-### Week 3
+#### Data visualization #1
+#### Crafting for Clarity
+## Week 3
 ------
-##### Critique by Design
-### Week 4
+#### Critique by Design
+## Week 4
 ------
-##### Choosing Chart Types
-##### Final Project, part one
-##### Final Project, part one avoiding plagiarism quiz
-### Week 5
+#### Choosing Chart Types
+#### Final Project, part one
+#### Final Project, part one avoiding plagiarism quiz
+## Week 5
 ------
-##### Practicing Persuasion
-##### Final Project, part two
-### Week 6
+#### Practicing Persuasion
+#### Final Project, part two
+## Week 6
 ------
-##### Final Project, part three
-##### Cleaning up your online portfolio
-### Week 7
+#### Final Project, part three
+#### Cleaning up your online portfolio
+## Week 7
 ------
-##### Final Presentation
+#### Final Presentation
 ------
 Link to the website: https://weiyit.github.io/portfolio/
