@@ -31,7 +31,11 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 
 #### Data visualization critique #1
 ## Week 2
-#### Data visualization #1
+#### Government Debt Visualization
+
+https://weiyit.github.io/portfolio/dataviz2
+
+
 #### Crafting for Clarity
 ## Week 3
 #### Critique by Design
