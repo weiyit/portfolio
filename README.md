@@ -10,6 +10,12 @@ In my pursuit of roles centered around data science, digital transformation, and
 These roles often involve making big changes, and change can be hard for people to accept, it's important to get better at persuading others by showing them data and telling stories. However, changing how people think can be tough. People usually like to stick to their usual habits and thoughts, so it can be challenging to convince them to do something new. But I believe that the skills I'll learn in this course will help me with my career by making it easier to convince others and bring about positive changes.
 
 # **Portfolio**
+
+[Government Debt Visualization](https://weiyit.github.io/portfolio/dataviz2)
+
+
+
+
 ## Week 1
 ------
 #### In-class sketching exercise
@@ -29,11 +35,9 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 
 ![image](https://github.com/weiyit/portfolio/assets/122920634/ba0b747f-edfb-4dea-bbc9-61ada6ed48b7)
 
-#### Data visualization critique #1
+
 ## Week 2
 #### Government Debt Visualization
-[Government Debt Visualization](https://weiyit.github.io/portfolio/dataviz2)
-
 
 # General Government Debt
 
@@ -78,4 +82,3 @@ src="https://public.tableau.com/views/dataviz2_16941450904390/GovernmentDebt?:sh
 ## Week 7
 #### Final Presentation
 ------
-[Link to the website:](https://weiyit.github.io/portfolio/)
