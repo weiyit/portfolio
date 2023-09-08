@@ -32,7 +32,8 @@ As I consider alternative visualization methods, I'm thinking whether a bar plot
 #### Data visualization critique #1
 ## Week 2
 #### Government Debt Visualization
-https://weiyit.github.io/portfolio/dataviz2
+<iframe 
+  src="https://weiyit.github.io/portfolio/dataviz2"></iframe>
 
 
 # General Government Debt
@@ -78,4 +79,5 @@ src="https://public.tableau.com/views/dataviz2_16941450904390/GovernmentDebt?:sh
 ## Week 7
 #### Final Presentation
 ------
-Link to the website: https://weiyit.github.io/portfolio/
+Link to the website: 
+<iframe src="https://weiyit.github.io/portfolio/></iframe>
