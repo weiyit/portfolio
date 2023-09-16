@@ -35,4 +35,16 @@ The evaluation method could be enhanced by taking into account the context in wh
 
 ### Step four: Test the solution
 
+adult, late 20's
+- Can you tell me what you think this is?
+The reader can know the trend of mass shooting in the States.
+- Can you describe to me what this is telling you?
+I guess this is telling us that the number of mass shooting is getting higher and higher. The trends goes up.
+- Is there anything you find surprising or confusing?
+Yes, I am confusing what is the number of the bar means, I thought it is the nubmer of incident, but it is the number of fatalities. And also what is the bar with black background?
+- Who do you think is the intended audience for this?
+Everyone who live in the States or goverment.
+- Is there anything you would change or do differently?
+I will change the title, so that reader can know immediately what the's number about. Use color to imrpove visualization.
+
 ### Step five: Build your solution
