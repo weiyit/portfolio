@@ -13,6 +13,7 @@
 - Data source topic: US Mass Shootings, 1982–2023: Data From Mother Jones’ Investigation
 - Data source link: https://www.motherjones.com/politics/2012/12/mass-shootings-mother-jones-full-data/
 
+![Mass Shooting](MassShooting.png)
 
 ### Step two: critique the data visualization
 
