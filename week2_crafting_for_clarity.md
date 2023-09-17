@@ -10,6 +10,7 @@ The plot doesn't clearly display house prices and income as mentioned in the tit
 If the y-axis represents a calculation, it should be labeled below to provide the formula for readers who may need it.
 
 2. Sketch a new version of it given the following contextual information
+
 ![one](clarity1.png)
 
 The Overdone Line Chart
