@@ -37,14 +37,30 @@ The evaluation method could be enhanced by taking into account the context in wh
 
 adult, late 20's
 - Can you tell me what you think this is?
-The reader can know the trend of mass shooting in the States.
+  The reader can know the trend of mass shooting in the States.
 - Can you describe to me what this is telling you?
-I guess this is telling us that the number of mass shooting is getting higher and higher. The trends goes up.
+  I guess this is telling us that the number of mass shooting is getting higher and higher. The trends goes up from 1982. Oh I think it is the number of death or injuries, because the stack block has different height. So it is a stack bar that tell us how many death or injuries each year happened because of mass shooting.
 - Is there anything you find surprising or confusing?
-Yes, I am confusing what is the number of the bar means, I thought it is the nubmer of incident, but it is the number of fatalities. And also what is the bar with black background?
+  Yes, I am confusing at the beginning of what is the number of the bar means, I thought it is the nubmer of incident, but it is the number of fatalities. And also what is the bar with black background?
 - Who do you think is the intended audience for this?
-Everyone who live in the States or goverment.
+  Everyone who live in the States or goverment.
 - Is there anything you would change or do differently?
-I will change the title, so that reader can know immediately what the's number about. Use color to imrpove visualization.
+  I will change the title, so that reader can know immediately what the's number about. Use color to imrpove visualization.
+
+
+student, early 20's
+- Can you tell me what you think this is?
+  It is a chart telling us about mass shooting situation in the US.
+- Can you describe to me what this is telling you?
+  We can see the number of injuries caused by mass shootings every year, the darker part means the incident that you want reader to focus on. Seems like it is some incident with large injuries.
+- Is there anything you find surprising or confusing?
+  There is a trend, seems like every couple years there is a high peak, if that is true, its kind of a suprise information.
+- Who do you think is the intended audience for this?
+  Citizen
+- Is there anything you would change or do differently?
+  I feel like overall is pretty easy to read, after adding some label and color, i think it is very clear.
+
 
 ### Step five: Build your solution
+
+![Redesign](redesign.png)
