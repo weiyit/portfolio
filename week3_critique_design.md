@@ -66,7 +66,7 @@ Secondly, I focused on incorporating annotations and labels to enhance clarity. 
 Lastly, I explored the possibility of incorporating additional data, such as the locations of these incidents, which is already available in the dataset.
 
 #### Feedback
-I got two feedback from friends, they provided valuable insights and we can see how different individuals interpret and perceive your visualization. Here is a summary of their comments and suggestions:
+I got two feedback from friends, they provided valuable insights and we can see how different individuals interpret and perceive my visualization. Here is a summary of their comments and suggestions:
 
 Feedback from the adult friend (late 20's):
 My friend accurately grasped the primary purpose of my visualization, recognizing that it effectively communicates the trend of mass shootings in the United States. However, his initial interaction with the chart proved somewhat perplexing, as he initially misconstrued the bars as representing the number of incidents rather than fatalities. This confusion shows that there are some improvement in my visualization. Additionally, he asked about the the bars with a black background, signaling a need for further clarification or differentiation within the visualization by adding some label. In terms of improvement, he recommended altering the title for greater clarity and leveraging color to augment the overall effectiveness of the visualization.
