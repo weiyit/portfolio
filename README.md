@@ -30,6 +30,10 @@ These roles often involve making big changes, and change can be hard for people 
 ## Week 4
 #### Choosing Chart Types
 #### Final Project, part one
+
+[Final Project Part 1](https://weiyit.github.io/portfolio/Final_Project_Part1)
+
+
 #### Final Project, part one avoiding plagiarism quiz
 ## Week 5
 #### Practicing Persuasion
