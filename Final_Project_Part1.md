@@ -38,11 +38,9 @@ Suicide prevention program really can works, here provide Finland successful exp
 
 # Data
 
-- CDC
-https://www.cdc.gov/suicide/index.html
+[CDC](https://www.cdc.gov/suicide/index.html)
 
-- Washington Post
-https://www.washingtonpost.com/business/interactive/2022/cost-raising-child-calculator/
+[Washington Post](https://www.washingtonpost.com/business/interactive/2022/cost-raising-child-calculator/)
 
 
 # Method and medium
