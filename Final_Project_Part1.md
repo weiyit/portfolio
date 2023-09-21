@@ -7,6 +7,19 @@ The project will present statistical evidence, highlighting the alarming suicide
 
 # Initial sketches
 
+![Sketch1](Final_sketch1.jpeg)
+
+![Sketch1](Final_sketch2.jpeg)
+
+![Sketch1](Final_sketch3.jpeg)
+
+![Sketch1](Final_sketch4.jpeg)
+
+![Sketch1](Final_sketch5.jpeg)
+
+![Sketch1](Final_sketch6.jpeg)
+
+![Sketch1](Final_sketch7.jpeg)
 
 
 # Data
