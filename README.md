@@ -38,6 +38,8 @@ These roles often involve making big changes, and change can be hard for people 
 ## Week 5
 #### Practicing Persuasion
 #### Final Project, part two
+[Final Project Part 2](https://weiyit.github.io/portfolio/Final_Project_Part2)
+
 ## Week 6
 #### Final Project, part three
 #### Cleaning up your online portfolio
