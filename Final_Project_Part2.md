@@ -13,7 +13,7 @@ The project will present statistical evidence, highlighting the alarming suicide
 
 ## Target audience
 
-This story is designed to speak directly to two main groups: policymakers and everyone in our communities. For the policymakers, the focus will be on providing clear facts and stories about the rising suicide rates, showing them the real impact on different people's lives and on the society. The goal is to convince them that investing in suicide prevention is crucial and can make a big difference.
+This story is designed to speak directly to two main groups: policymakers. For the policymakers, the focus will be on providing clear facts and stories about the rising suicide rates, showing them the real impact on different people's lives and on the society. The goal is to convince them that investing in suicide prevention is crucial and can make a big difference.
 
 I am going to randomly pick anyone I meet in Heinz and ask them about my story design,.
 
