@@ -7,34 +7,36 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+This story is designed to speak directly to two main groups: policymakers and everyone in our communities. For the policymakers, the focus will be on providing clear facts and stories about the rising suicide rates, showing them the real impact on different people's lives and on the society. The goal is to convince them that investing in suicide prevention is crucial and can make a big difference.
+
+I am going to randomly pick anyone I meet in Heinz and ask them about my story design,.
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+| Goal                                                                      | Questions to Ask                                                                                           |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| See if the story is clear enough.                                         | Can you easily understand the purpose and the point being made?                                            |
+| See if I have expressed the issue of suicide clearly.                     | Does the story address your concerns, interests, and needs?                                                |
+| See if I can attract readers’ attention.                                  | Does the story capture and maintain the audience’s attention?                                              |
+| See if my story structure is easy to understand.                          | Is the story well-organized, with a clear beginning, middle, and end?                                      |
+| See if it can promote policy changes.                                     | Does it provoke thoughts, discussions, or actions after it's been told or read?                            |     
+| See whether the style and message presented in the story are appropriate. | Is the story consistent in tone, style, and message? Does it align with the overall theme or purpose?      |
+| See if there is any creativity.                                           | Does the story demonstrate creativity in its storytelling approach?                                        |
 
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions                                                             | A guy in MISM BIDA                                     | Interview 2 | Interview 3 |
+|-----------------------------------------------------------------------|----------------------                            ----------|-------------|-------------|
+| Can you easily understand the purpose and the point being made?       | Yes, it is about suicide, and hope to attract attention          |             |             |
+| Does the story address your concerns, interests, and needs?           |                                |             |             |
+|                                                                       |                                |             |             |
 
 
 # Identified changes for Part III
@@ -54,7 +56,10 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you plan on implementing to your visualizations next week to address the issues identified. 
