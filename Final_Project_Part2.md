@@ -7,7 +7,7 @@ The project will present statistical evidence, highlighting the alarming suicide
 
 
 ## Shorthand
-[My shorthand!](https://carnegiemellon.shorthandstories.com/suicide_prevention/index.html)
+[My shorthand](https://carnegiemellon.shorthandstories.com/suicide_prevention/index.html)
 
 # User research 
 
