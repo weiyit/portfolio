@@ -15,15 +15,15 @@ I am going to randomly pick anyone I meet in Heinz and ask them about my story d
 
 ## Interview script
 
-| Goal                                                                      | Questions to Ask                                                                                           |
-|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| See if the story is clear enough.                                         | Can you easily understand the purpose and the point being made?                                            |
-| See if I have expressed the issue of suicide clearly.                     | Does the story address your concerns, interests, and needs?                                                |
-| See if I can attract readers’ attention.                                  | Does the story capture and maintain the audience’s attention?                                              |
-| See if my story structure is easy to understand.                          | Is the story well-organized, with a clear beginning, middle, and end?                                      |
-| See if it can promote policy changes.                                     | Does it provoke thoughts, discussions, or actions after it's been told or read?                            |     
-| See whether the style and message presented in the story are appropriate. | Is the story consistent in tone, style, and message? Does it align with the overall theme or purpose?      |
-| See if there is any creativity.                                           | Does the story demonstrate creativity in its storytelling approach?                                        |
+| Goal                                                                      | Questions to Ask                                                                     |
+|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| See if the story is clear enough.                                         | Can you easily understand the purpose and the point being made?                      |
+| See if I have expressed the issue of suicide clearly.                     | Does the story address your concerns, interests, and needs?                          |
+| See if I can attract readers’ attention.                                  | Does the story capture and maintain the audience’s attention?                        |
+| See if my story structure is easy to understand.                          | Is the story well-organized, with a clear beginning, middle, and end?                |
+| See if it can promote policy changes.                                     | Does it provoke thoughts, discussions, or actions after it's been told or read?      |     
+| See whether the style and message presented in the story are appropriate. | Is the story consistent in tone, style, and message?                                 |
+| See if there is any creativity.                                           | Does the story demonstrate creativity in its storytelling approach?                  |
 
 
 
@@ -32,11 +32,16 @@ I am going to randomly pick anyone I meet in Heinz and ask them about my story d
 
 Text here!
 
-| Questions                                                             | A guy in MISM BIDA                                     | Interview 2 | Interview 3 |
-|-----------------------------------------------------------------------|----------------------                            ----------|-------------|-------------|
-| Can you easily understand the purpose and the point being made?       | Yes, it is about suicide, and hope to attract attention          |             |             |
-| Does the story address your concerns, interests, and needs?           |                                |             |             |
-|                                                                       |                                |             |             |
+| Questions                                                                       | A guy in MISM BIDA                                                                                                                                                     | Interview 2 | Interview 3 |
+|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
+| Can you easily understand the purpose and the point being made?                 | Yes, it is about suicide, and hope to attract attention.                                                                                                               | Yes, it talk about how servere suicide is and we should do something. Maybe include location to mention it is in the USA.   |
+| Does the story address your concerns, interests, and needs?                     | I don't know that many people die from suicide a year, its a concern                                                                                                   | Yes, the data is strong, make the audience feel sad and want to work on it.                                                 |
+| Does the story capture and maintain the audience’s attention?                   | Yes, the questions in the begin make me think and really want to know what you going to say after.                                                                     | I feel like if you include some people's story will be even powerful. But everything already capture my eyes.               | 
+| Is the story well-organized, with a clear beginning, middle, and end?           | Yes, it start with questions and some statisitcs, and then give example from other coutries, it can expresses the feasibility.                                         | Yes, it is clear, the structure is good.                                                                                    |
+| Does it provoke thoughts, discussions, or actions after it's been told or read? | Yes, the action is allocate budget so that we can try to decrease thenumber of death from suicide.
+                                       | Yes, we should prevent suicide rate getting worser and worser, government should plan and make an action.                   |
+| Is the story consistent in tone, style, and message?                            | The color in the beginning is more blck and blue, but then at the end there are some green pictures, maybe it is better to change it so that it feel consistent.  | Yes. Style is consistent                                                                                                    |
+| Does the story demonstrate creativity in its storytelling approach?             | Not sure if its creativity, but i like the chart and graph, becuase it make the data easier to understand.                                                             | The chart here is pretty creative.                                                                                          |
 
 
 # Identified changes for Part III
