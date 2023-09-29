@@ -1,8 +1,9 @@
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Project Outline
 
-Text here!
+This project aims to construct a compelling narrative that delves into the critical issue of suicide prevention. With suicide rates on the rise, this has become a severe societal problem. It's not just about the sadness for families; it incurs economic and social costs, increases healthcare expenses, and contributes to depression in communities.
+
+The project will present statistical evidence, highlighting the alarming suicide rates in the chosen region or country and by demographic categories. Ultimately, the project seeks to persuade policymakers to allocate budget resources to suicide prevention efforts and also enhance the awareness of how important mental health is. It underscores the potential for meaningful change and a brighter future for all.
 
 # User research 
 
@@ -28,9 +29,6 @@ I am going to randomly pick anyone I meet in Heinz and ask them about my story d
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions | A guy in MISM BIDA  | A girl in MISM | my girl friend |
 |-----------|---------------------|----------------|-------------|
@@ -42,14 +40,10 @@ Text here!
 | Is the story consistent in tone, style, and message?      | The color in the beginning is more blck and blue, but then at the end there are some green pictures, maybe it is better to change it so that it feel consistent.  | Yes. Style is consistent      | Yes, it is clean.     |
 | Does the story demonstrate creativity in its storytelling approach?             | Not sure if its creativity, but i like the chart and graph, becuase it make the data easier to understand.          | The chart here is pretty creative.     | I like the clock and the graph before that, it smart to present in that way.                                                                                     |
 
-
 # Identified changes for Part III
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+Anticipated changes for Part III
+1. Add location and year for the statistic, so that audience can clearly get the information without me telling them.
+2. Change the color of the bottom photos, so that it match with the front.
+3. Add more detail information in the text, so that if anyone need more information they can find it there, and if people only have 1 minute, then they can still understanding the whole story by looking at the title.
 
