@@ -32,9 +32,9 @@ I am going to randomly pick anyone I meet in Heinz and ask them about my story d
 
 Text here!
 
-| Questions                                                                       | A guy in MISM BIDA                                                                                                                                                     | A girl in MISM | Interview 3 |
-|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
-| Can you easily understand the purpose and the point being made?                 | Yes, it is about suicide, and hope to attract attention.                                                                                                               | Yes, it talk about how servere suicide is and we should do something. Maybe include location to mention it is in the USA.   |
+| Questions | A guy in MISM BIDA  | A girl in MISM | Interview 3 |
+|-----------|---------------------|----------------|-------------|
+| Can you easily understand the purpose and the point being made?                 | Yes, it is about suicide, and hope to attract attention.                                                                                                               | Yes, it talk about how servere suicide is and we should do something to prevent this keep getting worse. Maybe include location to mention it is in the USA.   | Yes, it is clear, about suicide and the number of death is getting higher.
 | Does the story address your concerns, interests, and needs?                     | I don't know that many people die from suicide a year, its a concern                                                                                                   | Yes, the data is strong, make the audience feel sad and want to work on it.                                                 |
 | Does the story capture and maintain the audience’s attention?                   | Yes, the questions in the begin make me think and really want to know what you going to say after.                                                                     | I feel like if you include some people's story will be even powerful. But everything already capture my eyes.               | 
 | Is the story well-organized, with a clear beginning, middle, and end?           | Yes, it start with questions and some statisitcs, and then give example from other coutries, it can expresses the feasibility.                                         | Yes, it is clear, the structure is good.                                                                                    |
@@ -44,9 +44,6 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -56,14 +53,3 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
