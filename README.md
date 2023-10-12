@@ -25,24 +25,21 @@ These roles often involve making big changes, and change can be hard for people 
 [Crafting for Clarity](https://weiyit.github.io/portfolio/week2_crafting_for_clarity)
 
 ## Week 3
+------
 [Critique by Design](https://weiyit.github.io/portfolio/week3_critique_design)
 
 ## Week 4
-#### Choosing Chart Types
-#### Final Project, part one
-
+------
+[Choosing Chart Types](https://weiyit.github.io/portfolio/week4_choosing_chart_types)
 [Final Project Part 1](https://weiyit.github.io/portfolio/Final_Project_Part1)
 
-
-#### Final Project, part one avoiding plagiarism quiz
 ## Week 5
-#### Practicing Persuasion
-#### Final Project, part two
+------
+[Practicing Persuasion](https://weiyit.github.io/portfolio/week5_practicing_persuasion)
 [Final Project Part 2](https://weiyit.github.io/portfolio/Final_Project_Part2)
 
-## Week 6
-#### Final Project, part three
-#### Cleaning up your online portfolio
-## Week 7
+## Week 6 & Week 7
+------
 #### Final Presentation
+https://carnegiemellon.shorthandstories.com/suicide_prevention/index.html
 ------
