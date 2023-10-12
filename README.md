@@ -43,5 +43,7 @@ These roles often involve making big changes, and change can be hard for people 
 ## Week 6 & Week 7
 ------
 #### Final Presentation
+[Final Project Part 3](https://weiyit.github.io/portfolio/Final_Project_Part3)
+
 https://carnegiemellon.shorthandstories.com/suicide_prevention/index.html
 ------
