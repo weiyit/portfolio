@@ -31,11 +31,13 @@ These roles often involve making big changes, and change can be hard for people 
 ## Week 4
 ------
 [Choosing Chart Types](https://weiyit.github.io/portfolio/week4_choosing_chart_types)
+
 [Final Project Part 1](https://weiyit.github.io/portfolio/Final_Project_Part1)
 
 ## Week 5
 ------
 [Practicing Persuasion](https://weiyit.github.io/portfolio/week5_practicing_persuasion)
+
 [Final Project Part 2](https://weiyit.github.io/portfolio/Final_Project_Part2)
 
 ## Week 6 & Week 7
